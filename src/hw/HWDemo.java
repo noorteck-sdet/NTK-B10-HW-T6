@@ -10,7 +10,6 @@ public class HWDemo {
 		
 		System.out.println("HW Attempt #1");
 		System.out.println("HW Attempt #2, PULL");
-		
 	}
 	
 }
