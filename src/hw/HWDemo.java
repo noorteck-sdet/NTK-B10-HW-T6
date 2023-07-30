@@ -9,6 +9,7 @@ public class HWDemo {
 	public static void getInfo(String [] args) {
 		
 		System.out.println("HW Attempt #1");
+		System.out.println("HW Attempt #2, PULL");
 		
 	}
 	
