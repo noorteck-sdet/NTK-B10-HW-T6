@@ -4,11 +4,9 @@ public class HWDemo {
 
 	public static void main(String[] args) {
 		System.out.println("HW");
-		System.out.println("Adel");
-		System.out.println("Jessica");
-		System.out.println ( "Massod");
-		System.out.println("Today");
-		System.out.println("Today is Monday")
-		
+		System.out.println("Java is Fun");
+		System.out.println("working in team is fun")
+		System.ou.println("Today is Sunday");
+		System.ou.println("Today is Sunny");
 	}
 }
