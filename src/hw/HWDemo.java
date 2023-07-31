@@ -7,7 +7,7 @@ public class HWDemo {
 		System.out.println("Adel");
 		System.out.println("Java");
 		System.out.println("Java is Fun");
-		System.out.println("Adel & Masoo are the best");
+		System.out.println("Adel & Masood are the best");
 	}
 	
 }
