@@ -7,6 +7,7 @@ public class HWDemo {
 		System.out.println("Adel");
 		System.out.println("Jessica");
 		System.out.println ( "Massod");
+		System.out.println("Today");
 		
 	}
 }
