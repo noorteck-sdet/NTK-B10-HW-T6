@@ -10,4 +10,8 @@ public class HWDemo {
 		System.out.println("Today");
 		
 	}
+	public static void getInfo() {
+
+		System.out.println("New Data 01");
+	}
 }
