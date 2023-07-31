@@ -8,6 +8,7 @@ public class HWDemo {
 		System.out.println("Jessica");
 		System.out.println ( "Massod");
 		System.out.println("Today");
+		System.out.println("Adel2");
 		
 	}
 	public static void getInfo() {
