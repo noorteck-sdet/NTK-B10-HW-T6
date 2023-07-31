@@ -23,4 +23,7 @@ public class HWDemo {
 	public static void stash() {
 		System.out.println("Stash");
 	}
+	void addNum() {
+		System.out.println(123);
+	}
 }
