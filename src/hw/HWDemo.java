@@ -20,4 +20,7 @@ public class HWDemo {
 	public static void setInfo() {
 		System.out.println("Git Data");
 	}
+	public static void stash() {
+		System.out.println("Stash");
+	}
 }
