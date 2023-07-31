@@ -10,6 +10,8 @@ public class HWDemo {
 		System.out.println("Today");
 		System.out.println("Adel2");
 		System.out.println("Hi");
+		System.out.println("Hi2");
+		
 		
 	}
 	public static void getInfo() {
