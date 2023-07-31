@@ -11,7 +11,6 @@ public class HWDemo {
 		
 	}
 	public static void getInfo() {
-
 		System.out.println("New Data 01");
 	}
 }
