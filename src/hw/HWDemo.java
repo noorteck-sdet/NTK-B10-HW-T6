@@ -6,7 +6,7 @@ public class HWDemo {
 		System.out.println("HW");
 		System.out.println("Adel");
 		System.out.println("Java");
-		
+		System.out.println("Java is Fun");
 	}
 	
 }
