@@ -15,6 +15,8 @@ public class HWDemo {
 		System.out.println("Adel Zaki");
 		System.out.println("Test1");
 		System.out.println("Test2");
+		System.out.println("test3");
+		
 	}
 	public static void getInfo() {
 		System.out.println("New Data 01");
