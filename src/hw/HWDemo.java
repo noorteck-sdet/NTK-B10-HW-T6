@@ -13,8 +13,6 @@ public class HWDemo {
 		System.out.println("Hi");
 		System.out.println("Hi2");
 		System.out.println("Adel Zaki");
-
-		
 		System.out.println("Test1");
 		System.out.println("Test2");
 		System.out.println("test3");
