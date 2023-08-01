@@ -17,6 +17,10 @@ public class HWDemo {
 		System.out.println("Test2");
 		System.out.println("test3");
 		
+
+		System.out.println("TEST 4...");//test
+		System.out.println("TEST55");
+
 	}
 	public static void getInfo() {
 		System.out.println("New Data 01");
