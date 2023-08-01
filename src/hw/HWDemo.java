@@ -19,7 +19,7 @@ public class HWDemo {
 		
 		System.out.println("TEST 4...");
 
-		System.out.prinltn("TTTEEESSSTTT");
+		System.out.println("TTTEEESSSTTT");
 	}
 	public static void getInfo() {
 		System.out.println("New Data 01");
