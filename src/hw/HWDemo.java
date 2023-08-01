@@ -13,6 +13,7 @@ public class HWDemo {
 		System.out.println("Hi");
 		System.out.println("Hi2");
 		System.out.println("Adel Zaki");
+		System.out.println("Test1");
 	}
 	public static void getInfo() {
 		System.out.println("New Data 01");
